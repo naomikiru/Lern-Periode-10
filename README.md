@@ -6,3 +6,5 @@ In der Kanti habe ich gerade eher nicht so gute Noten, aber die werden sich in d
 ## 25.04.2025
 - [ ] Mit IDAF anfangen; Motivationsschreiben, Lebenslauf usw.
 - [ ] Modul 165 weiterarbeiten
+
+Ich habe heute zuerst einen Auftrag von der Kanti erledigt. Ich habe einen Interview den ich mit meiner Gruppe durchgeführt habe, heraus geschrieben. Danach habe ich meinen Lebenslauf geschrieben. Ich habe zuletzt auch noch bisschen am Modul 165 gearbeitet.
