@@ -8,3 +8,10 @@ In der Kanti habe ich gerade eher nicht so gute Noten, aber die werden sich in d
 - [ ] Modul 165 weiterarbeiten
 
 Ich habe heute zuerst einen Auftrag von der Kanti erledigt. Ich habe einen Interview den ich mit meiner Gruppe durchgeführt habe, heraus geschrieben. Danach habe ich meinen Lebenslauf geschrieben. Ich habe zuletzt auch noch bisschen am Modul 165 gearbeitet.
+
+
+## 09.05.2025
+- [ ] mit Modul 254 weiterfahren
+- [ ] Deutsch Präsentation lernen
+
+Ich habe heute im Modul 254 weiter gearbeitet. Ich habe den ersten Auftrag gelöst, der auch der erste Handlungsziel ist. Ich habe die Videos angeschaut und habe mit der Dokumentation angefangen. Ich habe heute auch an der Deutsch Präsentation weitergemacht. Ich habe dort paar Folien überarbeitet und habe für sie auch gelernt.
