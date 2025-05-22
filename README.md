@@ -15,3 +15,11 @@ Ich habe heute zuerst einen Auftrag von der Kanti erledigt. Ich habe einen Inter
 - [ ] Deutsch Präsentation lernen
 
 Ich habe heute im Modul 254 weiter gearbeitet. Ich habe den ersten Auftrag gelöst, der auch der erste Handlungsziel ist. Ich habe die Videos angeschaut und habe mit der Dokumentation angefangen. Ich habe heute auch an der Deutsch Präsentation weitergemacht. Ich habe dort paar Folien überarbeitet und habe für sie auch gelernt.
+
+
+## 16.05.2025
+- [ ] Modul 254 weiterarbeiten
+- [ ] Modul 165 LB weitermachen
+- [ ] Deutsch Buch fertig lesen
+
+Ich habe heute im Modul 254 weitergearbeitet. Ich habe einige Aufgaben gelöst und weiter an der Dokumentation geschrieben. Danach habe ich bei Modul 165 an der LB weitergemacht. Ich habe bach Datensätzen gesucht, die mir interessieren aber habe bis jetzt noch michts gefunden. Deshalb habe ich zuert MongoDB heruntergeladen und mit einem Auftrag getestet.
