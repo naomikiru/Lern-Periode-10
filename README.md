@@ -22,4 +22,4 @@ Ich habe heute im Modul 254 weiter gearbeitet. Ich habe den ersten Auftrag gelö
 - [ ] Modul 165 LB weitermachen
 - [ ] Deutsch Buch fertig lesen
 
-Ich habe heute im Modul 254 weitergearbeitet. Ich habe einige Aufgaben gelöst und weiter an der Dokumentation geschrieben. Danach habe ich bei Modul 165 an der LB weitergemacht. Ich habe bach Datensätzen gesucht, die mir interessieren aber habe bis jetzt noch michts gefunden. Deshalb habe ich zuert MongoDB heruntergeladen und mit einem Auftrag getestet.
+Ich habe heute im Modul 254 weitergearbeitet. Ich habe einige Aufgaben gelöst und weiter an der Dokumentation geschrieben. Danach habe ich bei Modul 165 an der LB weitergemacht. Ich habe bach Datensätzen gesucht, die mir interessieren aber habe bis jetzt noch michts gefunden. Deshalb habe ich zuerst MongoDB heruntergeladen und mit einem Auftrag getestet. Ich habe zuletzt auch noch am Lebenslauf und Bewerbungsschreiben weiter geschrieben. 
