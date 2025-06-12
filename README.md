@@ -27,8 +27,10 @@ Ich habe heute im Modul 254 weitergearbeitet. Ich habe einige Aufgaben gelöst u
 
 ## 06.06.2025
 - [ ] Homepage machen
-## 23.05.2025
-- [ ] Modul 254 weuterarbeiten
-- [ ] Modul 165 LB weutermachen
 
-Ich habe heute zuerst ein paar Aufträge vom Modul 254 fertig gemacht, aber habe noch nicht mit der Dokumentation begonnen. Ich habe vor die Dokumentation am Schluss zu machen, wenn ich alle Aufträge zuerst fertig machen möchte. Ich habe heute nicht an mein LB gearbeitet, da ich die Aufträge nachholen musste. Ich habe mir auch noch Gedanken gemacht, wie ich meine Homepage erstellen und gestalten kann. 
+Heute habe ich an mein Homepage gearbeitet. Ich habe zuerst wie eine "Basis" erstellt, die ich später dann umändert kann. Ich habe hauptsächlich am Homepage gearbeitet, aber habe am Ende noch ein kurzes Video, für den Deutsch Unterricht, mit meiner Gruppe gedreht. 
+
+
+## 13.06.2025
+- [ ] Homepage fertig machen
+- [ ] Bewerbedossier fertig stellen
