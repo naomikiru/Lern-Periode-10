@@ -34,3 +34,5 @@ Heute habe ich an mein Homepage gearbeitet. Ich habe zuerst wie eine "Basis" ers
 ## 13.06.2025
 - [ ] Homepage fertig machen
 - [ ] Bewerbedossier fertig stellen
+
+Ich habe heute meine Homepage fast fertig gemacht. Da ich noch nicht mein Lebensauf und Motivationsschreiben komplett ausgefüllt habe, muss ich es später noch ergänzen. Ich habe heute hauptsächlich alle Sachen angepasst, wie zum Beispiel die Buttons usw. Ich muss auch noch Fotos hinzufügen. Ich habe am Ende noch mein Motivationsschreiben angefangen.
